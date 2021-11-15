@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
-[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
-[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/8980ae70-4035-45bb-8c9a-a45067c11b98.svg)](https://wakatime.com/@8980ae70-4035-45bb-8c9a-a45067c11b98)
 
-- 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
-- 💬 Ask me about Go, Python, TypeScript, startups, and bootstrapping
-- 📫 How to reach me: [@alanhamlett](https://twitter.com/alanhamlett) or [@WakaTime](https://twitter.com/wakatime) on Twitter
+- 🔭 I’m currently Gaining Skill of Full Stcak developement on BootCamp [www.ccbp.in/](https://www.ccbp.in/)
+- 💬 Ask me about HTML, CSS, bootstrapping and Python
+- 📫 How to reach me: [@AdityaN71677515](https://twitter.com/AdityaN71677515) on Twitter
 
 Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a repo named `username/username` and copy/pasting the embeddable code from the badge on your [public WakaTime profile](https://wakatime.com/me).
 
